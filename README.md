@@ -1,5 +1,6 @@
 # Student
 this is spring boot project for manage student with Image and File Uploading 
+with pagination and sorting
 # Technologies
 java
 spring boot

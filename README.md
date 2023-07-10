@@ -2,7 +2,7 @@
 this is spring boot project for manage student with Image and File Uploading 
 with pagination and sorting
 # Technologies
-java
+* [java]
 spring boot
 HTML5
 Bootstrap

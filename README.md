@@ -1,6 +1,6 @@
 # Student
 this is spring boot project for manage student with Image and File Uploading 
-#Technologies
+# Technologies
 java
 spring boot
 HTML5
